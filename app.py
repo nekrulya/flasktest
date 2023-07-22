@@ -266,3 +266,11 @@ def get_attr(url: str, auth_token: str) -> dict:
 def create_json_file(filename: str, data: dict):
     with open(filename, 'w', encoding='utf-8') as outfile:
         json.dump(data, outfile, indent=4, ensure_ascii=False)
+
+
+def main():
+    app.run(debug=True)
+
+
+if __name__ == "__main__":
+    main()
