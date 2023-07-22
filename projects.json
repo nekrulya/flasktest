@@ -1,0 +1,343 @@
+[
+    {
+        "catalogPrioritiesSchemes": [],
+        "catalogPrioritiesSchemeIds": [
+            "a6ed9f94-3b79-472f-87a3-7a4f561c3b14"
+        ],
+        "projectSettings": {
+            "excelValueExport": {
+                "isExportApprovedNumbers": true,
+                "isExportPrice": true,
+                "isExportUnmapped": true,
+                "isOnlyTwoColumns": true,
+                "isExportParentSum": true,
+                "isExportElementsTree": true,
+                "isExportCatalogsTrees": true,
+                "isExportUnionTree": true,
+                "isExportElsTreeCats": true,
+                "isExportElsTreeTypes": true,
+                "isExportElsTreeEls": true,
+                "isExportElsTreePos": true,
+                "isExportCatsTreeParentPos": true,
+                "isExportCatsTreeEls": true,
+                "isExportUnionTreeParentPos": true,
+                "isExportUnionTreeEls": true,
+                "exportedLocalVars": []
+            }
+        },
+        "name": "169-01",
+        "companyId": "8e8b1cbf-b8b1-1fdb-fd0b-3a04081b14e4",
+        "currency": null,
+        "startDate": null,
+        "endDate": null,
+        "users": null,
+        "folders": [
+            {
+                "models": [
+                    {
+                        "id": "8ebf1a18-eb12-c7ad-a140-3a0a488814aa",
+                        "sw": "RVT",
+                        "checkedForAnalysis": true,
+                        "name": "169-01_АР_r.shakirov"
+                    }
+                ],
+                "folders": [],
+                "unionModels": [],
+                "name": "169-01_АР"
+            }
+        ],
+        "models": [],
+        "overridenTwigs": [],
+        "unionModels": [],
+        "extraProperties": {},
+        "concurrencyStamp": "0b5057ad5b9b4a7ca8fa4d069a18418b",
+        "id": "9242bbe8-9b93-64ca-c00b-3a0a876de10b"
+    },
+    {
+        "catalogPrioritiesSchemes": [],
+        "catalogPrioritiesSchemeIds": [],
+        "projectSettings": {
+            "excelValueExport": {
+                "isExportApprovedNumbers": true,
+                "isExportPrice": true,
+                "isExportUnmapped": true,
+                "isOnlyTwoColumns": true,
+                "isExportParentSum": true,
+                "isExportElementsTree": true,
+                "isExportCatalogsTrees": true,
+                "isExportUnionTree": true,
+                "isExportElsTreeCats": true,
+                "isExportElsTreeTypes": true,
+                "isExportElsTreeEls": true,
+                "isExportElsTreePos": true,
+                "isExportCatsTreeParentPos": true,
+                "isExportCatsTreeEls": true,
+                "isExportUnionTreeParentPos": true,
+                "isExportUnionTreeEls": true,
+                "exportedLocalVars": []
+            }
+        },
+        "name": "206 Прогресс 1 Очередь",
+        "companyId": "8e8b1cbf-b8b1-1fdb-fd0b-3a04081b14e4",
+        "currency": null,
+        "startDate": null,
+        "endDate": null,
+        "users": {
+            "a1f60e10-ece0-6e6a-e2aa-3a04eabe4526": "project-manager"
+        },
+        "folders": [
+            {
+                "models": [
+                    {
+                        "id": "0a57965b-4546-17bd-6d5a-3a0c60bd65eb",
+                        "sw": "RVT",
+                        "checkedForAnalysis": false,
+                        "name": "206_1.1_П_АР_r22_[wip]_r.shakirov"
+                    }
+                ],
+                "folders": [],
+                "unionModels": [],
+                "name": "Секция 1"
+            },
+            {
+                "models": [],
+                "folders": [],
+                "unionModels": [],
+                "name": "Секция 2"
+            },
+            {
+                "models": [],
+                "folders": [],
+                "unionModels": [],
+                "name": "Секция 3 Паркинг"
+            }
+        ],
+        "models": [],
+        "overridenTwigs": [],
+        "unionModels": [],
+        "extraProperties": {},
+        "concurrencyStamp": "4209cb09543b4120a5463434aec81b90",
+        "id": "240fdd29-4096-f2bd-ae4f-3a0c60aed4cf"
+    },
+    {
+        "catalogPrioritiesSchemes": [],
+        "catalogPrioritiesSchemeIds": [
+            "a6ed9f94-3b79-472f-87a3-7a4f561c3b14",
+            "b7b0596a-2ed4-4472-9654-4aef91ead964"
+        ],
+        "projectSettings": {
+            "excelValueExport": {
+                "isExportApprovedNumbers": true,
+                "isExportPrice": true,
+                "isExportUnmapped": true,
+                "isOnlyTwoColumns": true,
+                "isExportParentSum": true,
+                "isExportElementsTree": true,
+                "isExportCatalogsTrees": true,
+                "isExportUnionTree": true,
+                "isExportElsTreeCats": true,
+                "isExportElsTreeTypes": true,
+                "isExportElsTreeEls": true,
+                "isExportElsTreePos": true,
+                "isExportCatsTreeParentPos": true,
+                "isExportCatsTreeEls": true,
+                "isExportUnionTreeParentPos": true,
+                "isExportUnionTreeEls": true,
+                "exportedLocalVars": []
+            }
+        },
+        "name": "dev",
+        "companyId": "8e8b1cbf-b8b1-1fdb-fd0b-3a04081b14e4",
+        "currency": null,
+        "startDate": null,
+        "endDate": null,
+        "users": null,
+        "folders": [
+            {
+                "models": [
+                    {
+                        "id": "d7ab1e9e-7e68-6b4f-e8b1-3a0a91627c85",
+                        "sw": "RVT",
+                        "checkedForAnalysis": false,
+                        "name": "169-01_АР_tangl"
+                    },
+                    {
+                        "id": "8ebf1a18-eb12-c7ad-a140-3a0a488814aa",
+                        "sw": "RVT",
+                        "checkedForAnalysis": false,
+                        "name": "169-01_АР_r.shakirov"
+                    }
+                ],
+                "folders": [],
+                "unionModels": [],
+                "name": "dev_169-01"
+            }
+        ],
+        "models": [],
+        "overridenTwigs": [],
+        "unionModels": [],
+        "extraProperties": {},
+        "concurrencyStamp": "8a81d862d0f24239944aa95c572e75b7",
+        "id": "84316f31-0266-72fb-6ae2-3a0a8c58f3cd"
+    },
+    {
+        "catalogPrioritiesSchemes": [],
+        "catalogPrioritiesSchemeIds": [
+            "d675889e-e7ac-4225-963d-819dde1171a1"
+        ],
+        "projectSettings": {
+            "excelValueExport": {
+                "isExportApprovedNumbers": true,
+                "isExportPrice": true,
+                "isExportUnmapped": true,
+                "isOnlyTwoColumns": true,
+                "isExportParentSum": true,
+                "isExportElementsTree": true,
+                "isExportCatalogsTrees": true,
+                "isExportUnionTree": true,
+                "isExportElsTreeCats": true,
+                "isExportElsTreeTypes": true,
+                "isExportElsTreeEls": true,
+                "isExportElsTreePos": true,
+                "isExportCatsTreeParentPos": true,
+                "isExportCatsTreeEls": true,
+                "isExportUnionTreeParentPos": true,
+                "isExportUnionTreeEls": true,
+                "exportedLocalVars": []
+            }
+        },
+        "name": "Test",
+        "companyId": "8e8b1cbf-b8b1-1fdb-fd0b-3a04081b14e4",
+        "currency": null,
+        "startDate": null,
+        "endDate": null,
+        "users": null,
+        "folders": [
+            {
+                "models": [
+                    {
+                        "id": "992ad184-a2cd-bdd1-dcd7-3a0a9015e758",
+                        "sw": "RVT",
+                        "checkedForAnalysis": false,
+                        "name": "TRST_RU_ШаблонПроекта_АР_r2022_v2.0.2_[wip]"
+                    },
+                    {
+                        "id": "d2538d31-3bb8-d293-9d4d-3a0c191d5034",
+                        "sw": "IFC",
+                        "checkedForAnalysis": false,
+                        "name": "СС-2_TEST_IFC_КР_2023.06.29"
+                    },
+                    {
+                        "id": "27c41fe3-8a5e-def1-593b-3a0c19583826",
+                        "sw": "IFC",
+                        "checkedForAnalysis": false,
+                        "name": "тех пр23"
+                    }
+                ],
+                "folders": [],
+                "unionModels": [],
+                "name": "Витражи_Тест"
+            }
+        ],
+        "models": [],
+        "overridenTwigs": [],
+        "unionModels": [],
+        "extraProperties": {},
+        "concurrencyStamp": "be754af1bec34fe58327a633b4f52f06",
+        "id": "f10de1cc-352b-aab6-4ac5-3a0a90a95b01"
+    },
+    {
+        "catalogPrioritiesSchemes": [],
+        "catalogPrioritiesSchemeIds": [
+            "d00652bb-8f16-4831-a4f9-ef3169171ec4"
+        ],
+        "projectSettings": {
+            "excelValueExport": {
+                "isExportApprovedNumbers": true,
+                "isExportPrice": true,
+                "isExportUnmapped": true,
+                "isOnlyTwoColumns": true,
+                "isExportParentSum": true,
+                "isExportElementsTree": true,
+                "isExportCatalogsTrees": true,
+                "isExportUnionTree": true,
+                "isExportElsTreeCats": true,
+                "isExportElsTreeTypes": true,
+                "isExportElsTreeEls": true,
+                "isExportElsTreePos": true,
+                "isExportCatsTreeParentPos": true,
+                "isExportCatsTreeEls": true,
+                "isExportUnionTreeParentPos": true,
+                "isExportUnionTreeEls": true,
+                "exportedLocalVars": []
+            }
+        },
+        "name": "Учебный проект",
+        "companyId": "8e8b1cbf-b8b1-1fdb-fd0b-3a04081b14e4",
+        "currency": null,
+        "startDate": null,
+        "endDate": null,
+        "users": null,
+        "folders": [
+            {
+                "models": [
+                    {
+                        "id": "a9d689ca-3266-2d78-1bb8-3a0524297a8f",
+                        "sw": "RVT",
+                        "checkedForAnalysis": false,
+                        "name": "СОШ_ПСК_АР"
+                    },
+                    {
+                        "id": "ee36f3e6-a375-9d3d-69f8-3a05242a4c69",
+                        "sw": "RVT",
+                        "checkedForAnalysis": false,
+                        "name": "СОШ_ПСК_КР"
+                    },
+                    {
+                        "id": "d81a7590-de19-12ca-9c6e-3a052bee79a5",
+                        "sw": "RVT",
+                        "checkedForAnalysis": false,
+                        "name": "Отделка тест"
+                    }
+                ],
+                "folders": [],
+                "unionModels": [],
+                "name": "Тестовая"
+            }
+        ],
+        "models": [],
+        "overridenTwigs": [],
+        "unionModels": [
+            {
+                "id": "083e3166-b3e4-4daa-b821-8b61836ac6ef",
+                "models": [
+                    {
+                        "id": "a9d689ca-3266-2d78-1bb8-3a0524297a8f",
+                        "name": "СОШ_ПСК_АР",
+                        "isChecked": true,
+                        "isDeleted": false
+                    },
+                    {
+                        "id": "ee36f3e6-a375-9d3d-69f8-3a05242a4c69",
+                        "name": "СОШ_ПСК_КР",
+                        "isChecked": true,
+                        "isDeleted": false
+                    },
+                    {
+                        "id": "d81a7590-de19-12ca-9c6e-3a052bee79a5",
+                        "name": "Отделка тест",
+                        "isChecked": false,
+                        "isDeleted": false
+                    }
+                ],
+                "fromStart": false,
+                "fromEnd": true,
+                "versionNumber": 1,
+                "name": "Сводная 1"
+            }
+        ],
+        "extraProperties": {},
+        "concurrencyStamp": "48535fba1b454eeca40dc380f4e74ce5",
+        "id": "f6a25d2b-59d1-d9f8-0e6c-3a0527082c66"
+    }
+]
